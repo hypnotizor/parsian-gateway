@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parsian Gateway 2.0.0\n"
+"Report-Msgid-Bugs-To: Saeid Afshari <support@kabook.ir>\n"
+"POT-Creation-Date: 2025-08-01 00:00+0330\n"
+"PO-Revision-Date: 2025-08-01 00:00+0330\n"
+"Last-Translator: Saeid Afshari <support@kabook.ir>\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Handcrafted by ChatGPT\n"
+"X-Domain: parsian-gateway\n"
+
+#: includes/class-parsian-gateway.php:24
+msgid "بانک پارسیان"
+msgstr "بانک پارسیان"
+
+#: includes/class-parsian-gateway.php:25
+msgid "پرداخت امن با کارت‌های عضو شتاب"
+msgstr "پرداخت امن با کارت‌های عضو شبکه شتاب"
+
+#: includes/class-parsian-gateway.php:41
+msgid "فعال/غیرفعال"
+msgstr "فعال/غیرفعال"
+
+#: includes/class-parsian-gateway.php:42
+msgid "فعال کردن درگاه بانک پارسیان"
+msgstr "فعال کردن درگاه پرداخت بانک پارسیان"
+
+#: includes/class-parsian-gateway.php:46
+msgid "عنوان"
+msgstr "عنوان"
+
+#: includes/class-parsian-gateway.php:48
+msgid "پرداخت با کارت‌های بانکی"
+msgstr "پرداخت با کارت‌های بانکی"
+
+#: includes/class-parsian-gateway.php:52
+msgid "توضیحات"
+msgstr "توضیحات"
+
+#: includes/class-parsian-gateway.php:54
+msgid "پرداخت امن با کارت‌های عضو شتاب از طریق بانک پارسیان"
+msgstr "پرداخت امن با کارت‌های عضو شبکه شتاب از طریق بانک پارسیان"
+
+#: includes/class-parsian-gateway.php:58
+msgid "Terminal ID"
+msgstr "شناسه ترمینال"
+
+#: includes/class-parsian-gateway.php:60
+msgid "شناسه ترمینال دریافتی از بانک پارسیان"
+msgstr "شناسه ترمینال دریافتی از بانک پارسیان"
+
+#: includes/class-parsian-gateway.php:64
+msgid "پیام پرداخت موفق"
+msgstr "پیام پرداخت موفق"
+
+#: includes/class-parsian-gateway.php:66
+msgid "پرداخت شما با موفقیت انجام شد. شماره پیگیری: {RRN}"
+msgstr "پرداخت شما با موفقیت انجام شد. شماره پیگیری: {RRN}"
+
+#: includes/class-parsian-gateway.php:70
+msgid "پیام پرداخت ناموفق"
+msgstr "پیام پرداخت ناموفق"
+
+#: includes/class-parsian-gateway.php:72
+msgid "پرداخت شما ناموفق بود. لطفا مجددا تلاش نمایید."
+msgstr "پرداخت شما ناموفق بود. لطفا مجددا تلاش نمایید."
+
+#: includes/class-parsian-gateway.php:98
+msgid "در انتظار پرداخت"
+msgstr "در انتظار پرداخت"
+
+#: includes/class-parsian-gateway.php:104
+msgid "خطا در اتصال به درگاه: "
+msgstr "خطا در اتصال به درگاه: "
+
+#: includes/class-parsian-gateway.php:138
+msgid "خطا: اطلاعات سفارش نامعتبر است"
+msgstr "خطا: اطلاعات سفارش نامعتبر است"
+
+#: includes/gateway-functions.php:23
+msgid "عملیات موفق"
+msgstr "عملیات موفق"
+
+#: includes/gateway-functions.php:24
+msgid "خطای سرور"
+msgstr "خطای سرور"
+
+#: includes/gateway-functions.php:25
+msgid "احراز هویت پذیرنده ناموفق"
+msgstr "احراز هویت پذیرنده ناموفق"
+
+#: includes/gateway-functions.php:26
+msgid "مبلغ تراکنش بیش از حد مجاز"
+msgstr "مبلغ تراکنش بیش از حد مجاز"
+
+#: includes/gateway-functions.php:27
+msgid "کد پذیرنده نامعتبر"
+msgstr "کد پذیرنده نامعتبر"
+
+#: includes/gateway-functions.php:28
+msgid "توکن منقضی شده"
+msgstr "توکن منقضی شده"
+
+#: includes/gateway-functions.php:29
+msgid "لغو توسط کاربر"
+msgstr "لغو توسط کاربر"
+
+#: includes/gateway-functions.php:30
+msgid "خطای ناشناخته"
+msgstr "خطای ناشناخته"
+
+#: includes/gateway-functions.php:33
+msgid "خطای ناشناخته (کد: %d)"
+msgstr "خطای ناشناخته (کد: %d)"
+
+#: parsian-gateway.php:54
+msgid "تنظیمات"
+msgstr "تنظیمات"
+
+#: parsian-gateway.php:55
+msgid "درباره توسعه‌دهنده"
+msgstr "درباره توسعه‌دهنده"
+
+#: parsian-gateway.php:56
+msgid "برای اطلاعات بیشتر، راهنما و پشتیبانی به سایت مراجعه کنید."
+msgstr "برای اطلاعات بیشتر، راهنما و پشتیبانی به سایت مراجعه کنید."
